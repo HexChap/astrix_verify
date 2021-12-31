@@ -1,0 +1,20 @@
+{
+  "bot": {
+    "token": "5052043687:AAGX9Ueyk5kxDMAnAyu3qxWIfiQP8Vx9Uas",
+    "id": "5052043687",
+    "username":  "astrix_verify_bot",
+    "admin_ids": [
+      1370280956,
+      664347271,
+      2134098999,
+      5044249929
+    ]
+  },
+  "db_server": {
+    "address": "78.24.221.37",
+    "port": "5432",
+    "user": "astrix",
+    "password": "x3)WYL(&",
+    "database": "astrix_verify"
+  }
+}
