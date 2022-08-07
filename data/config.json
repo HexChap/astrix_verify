@@ -11,10 +11,10 @@
     ]
   },
   "db_server": {
-    "address": "78.24.221.37",
+    "address": "localhost",
     "port": "5432",
-    "user": "astrix",
-    "password": "x3)WYL(&",
-    "database": "astrix_verify"
+    "user": "postgres",
+    "password": "postgres",
+    "database": "postgres"
   }
 }
